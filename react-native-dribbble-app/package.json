@@ -6,7 +6,7 @@
     "start": "node_modules/react-native/packager/packager.sh"
   },
   "dependencies": {
-    "react-native": "^0.14.1",
+    "react-native": "^0.64.0",
     "react-native-blur": "^0.7.6",
     "react-native-htmlview": "^0.2.0",
     "react-native-parallax-view": "git+https://github.com/jesseruder/react-native-parallax-view.git",
